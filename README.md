@@ -1,5 +1,10 @@
 #🧬 SARS-CoV-2 Mpro Bioactivity Classifier
 
+Python](https://img.shields.io/badge/Python-3.8+-blue)
+![RDKit](https://img.shields.io/badge/RDKit-Chemistry-green)
+![ML](https://img.shields.io/badge/ML-Drug%20Discovery-red)
+![License](https://img.shields.io/badge/License-MIT-yellow
+
 ##🎯 Project Overview
 Machine learning model to predict bioactivity 
 of molecules against SARS-CoV-2 Main Protease 
