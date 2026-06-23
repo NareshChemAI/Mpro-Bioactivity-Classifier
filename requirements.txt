@@ -1,0 +1,9 @@
+streamlit
+rdkit
+scikit-learn
+xgboost
+imbalanced-learn
+joblib
+numpy
+pandas
+pillow
